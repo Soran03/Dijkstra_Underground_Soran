@@ -1,4 +1,4 @@
-# Dijkstra_Underground_Soran
+# London-Underground-Journey-Dijkstra
 
 A journey time calculator for the London Underground Map using Dijkstra's Algorithm
 
